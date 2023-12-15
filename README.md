@@ -35,7 +35,7 @@ Bienvenue dans le compte rendu détaillé du projet Angular dédié à la gestio
   - Développement d'un système d'authentification sécurisé utilisant des tokens JWT.
 
 ![Authentification](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/login.png)
-![Authentification](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/login.png)
+
 
 ### 5. Guards d'Authentification et d'Autorisation
 
