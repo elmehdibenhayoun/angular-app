@@ -12,35 +12,38 @@ Bienvenue dans le compte rendu détaillé du projet Angular dédié à la gestio
   - Ajout d'une interface intuitive permettant d'ajouter, d'éditer et de supprimer des produits.
   - Intégration d'une fonctionnalité de pagination pour faciliter la navigation dans la liste des produits.
 
-![Gestion des Produits](chemin/vers/votre/image/gestion-produits.png)
+![Gestion des Produits](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/product.png)
+![Gestion des Produits](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/add.png)
 
 ### 2. Services Angular
 
 - **Création de Services**
   - Mise en place de services dédiés pour gérer la logique métier liée aux produits.
 
-![Services Angular](chemin/vers/votre/image/services-angular.png)
+![Services Angular](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/service.png)
 
 ### 3. Integration de json-server
 
 - **Mise en Place de json-server**
   - Intégration de json-server pour simuler une API REST et faciliter le développement et les tests.
 
-![json-server](chemin/vers/votre/image/json-server.png)
+![json-server](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/json.png)
 
 ### 4. Système d'Authentification avec JWT Token
 
 - **Authentification avec JWT Token**
   - Développement d'un système d'authentification sécurisé utilisant des tokens JWT.
 
-![Authentification](chemin/vers/votre/image/authentification.png)
+![Authentification](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/login.png)
+![Authentification](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/login.png)
 
 ### 5. Guards d'Authentification et d'Autorisation
 
 - **Guards d'Authentification et d'Autorisation**
   - Mise en place de guards pour renforcer la sécurité en assurant l'authentification et l'autorisation appropriées.
 
-![Guards](chemin/vers/votre/image/guards.png)
+![Guards](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/user_auth.png)
+![Guards](https://github.com/elmehdibenhayoun/angular-app/blob/master/image/not_auth.png)
 
 ## Conclusion
 
