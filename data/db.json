@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsIm5hbWUiOiJVc2VyMSIsImVtYWlsIjoidXNlcjFAZ21haWwuY29tIiwiaWF0IjoxNTE2MjM5MDIyLCJyb2xlcyI6WyJVU0VSIl19.athVfrz8HqlhFy7opZyvFuLQgN7FYGUngNQEPbaR9wE"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsIm5hbWUiOiJNb2hhbWVkIiwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE1MTYyMzkwMjIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.7FTLbjuAtqtfeKNLXeWvPmKQoD01miwQ51xzK3mWksg"
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "name": "Computer",
+      "price": "560",
+      "checked": true
+    },
+    {
+      "name": "Smart 67",
+      "price": "4500",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "name": "mmmmm",
+      "price": "5400",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "name": "mmmmm",
+      "price": "5400",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "m",
+      "price": 0,
+      "checked": true,
+      "id": 8
+    },
+    {
+      "name": "m",
+      "price": 0,
+      "checked": true,
+      "id": 9
+    }
+  ]
+}
