@@ -1,27 +1,47 @@
-# AngularApp
+# Compte Rendu du Projet Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
+## Introduction
 
-## Development server
+Bienvenue dans le compte rendu détaillé du projet Angular dédié à la gestion de produits. Ce document résume les principales étapes de développement, sans inclure de code, et est enrichi d'images illustratives.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tâches Accomplies
 
-## Code scaffolding
+### 1. Gestion des Produits
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Création de Produits**
+  - Ajout d'une interface intuitive permettant d'ajouter, d'éditer et de supprimer des produits.
+  - Intégration d'une fonctionnalité de pagination pour faciliter la navigation dans la liste des produits.
 
-## Build
+![Gestion des Produits](chemin/vers/votre/image/gestion-produits.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### 2. Services Angular
 
-## Running unit tests
+- **Création de Services**
+  - Mise en place de services dédiés pour gérer la logique métier liée aux produits.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Services Angular](chemin/vers/votre/image/services-angular.png)
 
-## Running end-to-end tests
+### 3. Integration de json-server
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Mise en Place de json-server**
+  - Intégration de json-server pour simuler une API REST et faciliter le développement et les tests.
 
-## Further help
+![json-server](chemin/vers/votre/image/json-server.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### 4. Système d'Authentification avec JWT Token
+
+- **Authentification avec JWT Token**
+  - Développement d'un système d'authentification sécurisé utilisant des tokens JWT.
+
+![Authentification](chemin/vers/votre/image/authentification.png)
+
+### 5. Guards d'Authentification et d'Autorisation
+
+- **Guards d'Authentification et d'Autorisation**
+  - Mise en place de guards pour renforcer la sécurité en assurant l'authentification et l'autorisation appropriées.
+
+![Guards](chemin/vers/votre/image/guards.png)
+
+## Conclusion
+
+Ce compte rendu résume les principales étapes du projet Angular, illustrées par des captures d'écran. N'hésitez pas à explorer le code source pour plus de détails sur l'implémentation.
